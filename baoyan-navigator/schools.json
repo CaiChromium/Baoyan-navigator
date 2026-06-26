@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "thu",
+    "name": "清华大学",
+    "type": "985",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 92,
+    "disciplines": {
+      "计算机": "A+",
+      "电子": "A+",
+      "机械": "A+",
+      "力学": "A+",
+      "经管": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.8,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "电子",
+      "机械",
+      "力学",
+      "经管",
+      "自动化"
+    ]
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "type": "985",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 91,
+    "disciplines": {
+      "数学": "A+",
+      "物理": "A+",
+      "计算机": "A+",
+      "法学": "A+",
+      "经管": "A+",
+      "生物": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.8,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "数学",
+      "物理",
+      "计算机",
+      "法学",
+      "经管",
+      "生物",
+      "文史"
+    ]
+  },
+  {
+    "id": "fudan",
+    "name": "复旦大学",
+    "type": "985",
+    "tier": 1,
+    "city": "上海",
+    "baseScore": 90,
+    "disciplines": {
+      "数学": "A+",
+      "物理": "A",
+      "经管": "A+",
+      "生物": "A+",
+      "文史": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "数学",
+      "物理",
+      "经管",
+      "生物",
+      "文史"
+    ]
+  },
+  {
+    "id": "sjtu",
+    "name": "上海交通大学",
+    "type": "985",
+    "tier": 1,
+    "city": "上海",
+    "baseScore": 90,
+    "disciplines": {
+      "计算机": "A",
+      "电子": "A+",
+      "机械": "A+",
+      "生物": "A+",
+      "经管": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "电子",
+      "机械",
+      "生物",
+      "经管"
+    ]
+  },
+  {
+    "id": "zju",
+    "name": "浙江大学",
+    "type": "985",
+    "tier": 1,
+    "city": "杭州",
+    "baseScore": 89,
+    "disciplines": {
+      "计算机": "A+",
+      "机械": "A+",
+      "控制": "A+",
+      "材料": "A+",
+      "生物": "A"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "机械",
+      "自动化",
+      "材料",
+      "生物"
+    ]
+  },
+  {
+    "id": "nju",
+    "name": "南京大学",
+    "type": "985",
+    "tier": 1,
+    "city": "南京",
+    "baseScore": 88,
+    "disciplines": {
+      "数学": "A",
+      "物理": "A+",
+      "计算机": "A",
+      "环境": "A+",
+      "文史": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.6,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "数学",
+      "物理",
+      "计算机",
+      "环境",
+      "文史"
+    ]
+  },
+  {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "type": "985",
+    "tier": 1,
+    "city": "合肥",
+    "baseScore": 89,
+    "disciplines": {
+      "物理": "A+",
+      "化学": "A+",
+      "数学": "A",
+      "计算机": "A"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "物理",
+      "化学",
+      "数学",
+      "计算机"
+    ]
+  },
+  {
+    "id": "ruc",
+    "name": "中国人民大学",
+    "type": "985",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 88,
+    "disciplines": {
+      "经管": "A+",
+      "法学": "A+",
+      "文史": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "经管",
+      "法学",
+      "文史"
+    ]
+  },
+  {
+    "id": "buaa",
+    "name": "北京航空航天大学",
+    "type": "985",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 84,
+    "disciplines": {
+      "计算机": "A",
+      "力学": "A+",
+      "控制": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "自动化",
+      "力学"
+    ]
+  },
+  {
+    "id": "tongji",
+    "name": "同济大学",
+    "type": "985",
+    "tier": 2,
+    "city": "上海",
+    "baseScore": 83,
+    "disciplines": {
+      "土木": "A+",
+      "环境": "A+",
+      "经管": "A"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "环境",
+      "经管"
+    ]
+  },
+  {
+    "id": "nku",
+    "name": "南开大学",
+    "type": "985",
+    "tier": 2,
+    "city": "天津",
+    "baseScore": 83,
+    "disciplines": {
+      "数学": "A",
+      "化学": "A+",
+      "经管": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "数学",
+      "化学",
+      "经管"
+    ]
+  },
+  {
+    "id": "hit",
+    "name": "哈尔滨工业大学",
+    "type": "985",
+    "tier": 2,
+    "city": "哈尔滨",
+    "baseScore": 84,
+    "disciplines": {
+      "机械": "A+",
+      "控制": "A+",
+      "计算机": "A"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "机械",
+      "自动化",
+      "计算机"
+    ]
+  },
+  {
+    "id": "xjtu",
+    "name": "西安交通大学",
+    "type": "985",
+    "tier": 2,
+    "city": "西安",
+    "baseScore": 83,
+    "disciplines": {
+      "机械": "A+",
+      "动力": "A+",
+      "控制": "A"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "机械",
+      "自动化"
+    ]
+  },
+  {
+    "id": "hust",
+    "name": "华中科技大学",
+    "type": "985",
+    "tier": 2,
+    "city": "武汉",
+    "baseScore": 82,
+    "disciplines": {
+      "计算机": "A",
+      "机械": "A+",
+      "电子": "A"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "机械",
+      "电子"
+    ]
+  },
+  {
+    "id": "whu",
+    "name": "武汉大学",
+    "type": "985",
+    "tier": 2,
+    "city": "武汉",
+    "baseScore": 82,
+    "disciplines": {
+      "法学": "A+",
+      "生物": "A",
+      "计算机": "A",
+      "文史": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "法学",
+      "生物",
+      "计算机",
+      "文史"
+    ]
+  },
+  {
+    "id": "sysu",
+    "name": "中山大学",
+    "type": "985",
+    "tier": 2,
+    "city": "广州",
+    "baseScore": 82,
+    "disciplines": {
+      "生物": "A+",
+      "经管": "A",
+      "医学": "A"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "生物",
+      "经管"
+    ]
+  },
+  {
+    "id": "seu",
+    "name": "东南大学",
+    "type": "985",
+    "tier": 2,
+    "city": "南京",
+    "baseScore": 81,
+    "disciplines": {
+      "电子": "A+",
+      "建筑": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "电子"
+    ]
+  },
+  {
+    "id": "tju",
+    "name": "天津大学",
+    "type": "985",
+    "tier": 2,
+    "city": "天津",
+    "baseScore": 80,
+    "disciplines": {
+      "化工": "A+",
+      "机械": "A"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "化工",
+      "机械"
+    ]
+  },
+  {
+    "id": "bit",
+    "name": "北京理工大学",
+    "type": "985",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 81,
+    "disciplines": {
+      "兵器": "A+",
+      "控制": "A"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "自动化"
+    ]
+  },
+  {
+    "id": "scu",
+    "name": "四川大学",
+    "type": "985",
+    "tier": 2,
+    "city": "成都",
+    "baseScore": 80,
+    "disciplines": {
+      "医学": "A",
+      "材料": "A",
+      "文史": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "生物",
+      "材料",
+      "文史"
+    ]
+  },
+  {
+    "id": "sdu",
+    "name": "山东大学",
+    "type": "985",
+    "tier": 2,
+    "city": "济南",
+    "baseScore": 79,
+    "disciplines": {
+      "数学": "A+",
+      "文史": "A"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "数学",
+      "文史"
+    ]
+  },
+  {
+    "id": "xmu",
+    "name": "厦门大学",
+    "type": "985",
+    "tier": 2,
+    "city": "厦门",
+    "baseScore": 79,
+    "disciplines": {
+      "化学": "A+",
+      "经管": "A"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "化学",
+      "经管"
+    ]
+  },
+  {
+    "id": "uestc",
+    "name": "电子科技大学",
+    "type": "985",
+    "tier": 2,
+    "city": "成都",
+    "baseScore": 80,
+    "disciplines": {
+      "电子": "A+",
+      "计算机": "A"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "电子",
+      "计算机"
+    ]
+  },
+  {
+    "id": "nwpu",
+    "name": "西北工业大学",
+    "type": "985",
+    "tier": 2,
+    "city": "西安",
+    "baseScore": 79,
+    "disciplines": {
+      "力学": "A",
+      "材料": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "力学",
+      "材料"
+    ]
+  },
+  {
+    "id": "csu",
+    "name": "中南大学",
+    "type": "985",
+    "tier": 2,
+    "city": "长沙",
+    "baseScore": 78,
+    "disciplines": {
+      "材料": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "材料"
+    ]
+  },
+  {
+    "id": "bupt",
+    "name": "北京邮电大学",
+    "type": "211",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 76,
+    "disciplines": {
+      "计算机": "A+",
+      "电子": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "电子"
+    ]
+  },
+  {
+    "id": "xdu",
+    "name": "西安电子科技大学",
+    "type": "211",
+    "tier": 3,
+    "city": "西安",
+    "baseScore": 75,
+    "disciplines": {
+      "电子": "A+",
+      "计算机": "A"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "电子",
+      "计算机"
+    ]
+  },
+  {
+    "id": "nuaa",
+    "name": "南京航空航天大学",
+    "type": "211",
+    "tier": 3,
+    "city": "南京",
+    "baseScore": 74,
+    "disciplines": {
+      "力学": "A",
+      "机械": "A"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "力学",
+      "机械"
+    ]
+  },
+  {
+    "id": "njust",
+    "name": "南京理工大学",
+    "type": "211",
+    "tier": 3,
+    "city": "南京",
+    "baseScore": 73,
+    "disciplines": {
+      "兵器": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "机械",
+      "自动化"
+    ]
+  },
+  {
+    "id": "bjtu",
+    "name": "北京交通大学",
+    "type": "211",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 73,
+    "disciplines": {
+      "交通": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "自动化",
+      "计算机"
+    ]
+  },
+  {
+    "id": "ecust",
+    "name": "华东理工大学",
+    "type": "211",
+    "tier": 3,
+    "city": "上海",
+    "baseScore": 72,
+    "disciplines": {
+      "化工": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.1,
+      "rank": "前30%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "化工",
+      "材料"
+    ]
+  },
+  {
+    "id": "whut",
+    "name": "武汉理工大学",
+    "type": "211",
+    "tier": 3,
+    "city": "武汉",
+    "baseScore": 72,
+    "disciplines": {
+      "材料": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.1,
+      "rank": "前30%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "材料"
+    ]
+  },
+  {
+    "id": "swjtu",
+    "name": "西南交通大学",
+    "type": "211",
+    "tier": 3,
+    "city": "成都",
+    "baseScore": 72,
+    "disciplines": {
+      "交通": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.1,
+      "rank": "前30%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "自动化",
+      "机械"
+    ]
+  },
+  {
+    "id": "cufe",
+    "name": "中央财经大学",
+    "type": "211",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 76,
+    "disciplines": {
+      "经管": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "经管"
+    ]
+  },
+  {
+    "id": "shufe",
+    "name": "上海财经大学",
+    "type": "211",
+    "tier": 3,
+    "city": "上海",
+    "baseScore": 76,
+    "disciplines": {
+      "经管": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "经管"
+    ]
+  },
+  {
+    "id": "cupl",
+    "name": "中国政法大学",
+    "type": "211",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 75,
+    "disciplines": {
+      "法学": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前20%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "法学"
+    ]
+  },
+  {
+    "id": "bfsu",
+    "name": "北京外国语大学",
+    "type": "211",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 74,
+    "disciplines": {
+      "外语": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "文史"
+    ]
+  },
+  {
+    "id": "cas_ict",
+    "name": "中科院计算技术研究所",
+    "type": "中科院",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 88,
+    "disciplines": {
+      "计算机": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机"
+    ]
+  },
+  {
+    "id": "cas_ia",
+    "name": "中科院自动化研究所",
+    "type": "中科院",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 87,
+    "disciplines": {
+      "计算机": "A+",
+      "控制": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.6,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "自动化"
+    ]
+  },
+  {
+    "id": "cas_iscas",
+    "name": "中科院软件研究所",
+    "type": "中科院",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 86,
+    "disciplines": {
+      "计算机": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.6,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机"
+    ]
+  },
+  {
+    "id": "cas_phy",
+    "name": "中科院物理研究所",
+    "type": "中科院",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 88,
+    "disciplines": {
+      "物理": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.7,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "物理"
+    ]
+  },
+  {
+    "id": "cas_math",
+    "name": "中科院数学与系统科学研究院",
+    "type": "中科院",
+    "tier": 1,
+    "city": "北京",
+    "baseScore": 87,
+    "disciplines": {
+      "数学": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.6,
+      "rank": "前10%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "数学"
+    ]
+  },
+  {
+    "id": "cas_chem",
+    "name": "中科院化学研究所",
+    "type": "中科院",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 84,
+    "disciplines": {
+      "化学": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "化学"
+    ]
+  },
+  {
+    "id": "cas_ibp",
+    "name": "中科院生物物理研究所",
+    "type": "中科院",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 83,
+    "disciplines": {
+      "生物": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.5,
+      "rank": "前15%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "生物"
+    ]
+  },
+  {
+    "id": "cas_aoe",
+    "name": "中科院空天信息创新研究院",
+    "type": "中科院",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 80,
+    "disciplines": {
+      "电子": "A"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "电子",
+      "计算机"
+    ]
+  },
+  {
+    "id": "cas_ime",
+    "name": "中科院微电子研究所",
+    "type": "中科院",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 81,
+    "disciplines": {
+      "电子": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "电子"
+    ]
+  },
+  {
+    "id": "cas_big",
+    "name": "中科院基因组研究所",
+    "type": "中科院",
+    "tier": 2,
+    "city": "北京",
+    "baseScore": 79,
+    "disciplines": {
+      "生物": "A"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "生物"
+    ]
+  },
+  {
+    "id": "hetao",
+    "name": "深圳河套学院",
+    "type": "研究院",
+    "tier": 3,
+    "city": "深圳",
+    "baseScore": 72,
+    "disciplines": {
+      "计算机": "A",
+      "生物": "A"
+    },
+    "thresholds": {
+      "gpa": 3.2,
+      "rank": "前25%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "生物",
+      "电子"
+    ]
+  },
+  {
+    "id": "zhongguancun",
+    "name": "中关村学院",
+    "type": "研究院",
+    "tier": 3,
+    "city": "北京",
+    "baseScore": 75,
+    "disciplines": {
+      "计算机": "A+",
+      "经管": "A"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "经管"
+    ]
+  },
+  {
+    "id": "zhejiang_lab",
+    "name": "之江实验室",
+    "type": "研究院",
+    "tier": 2,
+    "city": "杭州",
+    "baseScore": 78,
+    "disciplines": {
+      "计算机": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前15%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机"
+    ]
+  },
+  {
+    "id": "pengcheng_lab",
+    "name": "鹏城实验室",
+    "type": "研究院",
+    "tier": 2,
+    "city": "深圳",
+    "baseScore": 79,
+    "disciplines": {
+      "计算机": "A+",
+      "电子": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.4,
+      "rank": "前15%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机",
+      "电子"
+    ]
+  },
+  {
+    "id": "pujiang_lab",
+    "name": "浦江实验室",
+    "type": "研究院",
+    "tier": 2,
+    "city": "上海",
+    "baseScore": 77,
+    "disciplines": {
+      "计算机": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级550+"
+    },
+    "suitableMajors": [
+      "计算机"
+    ]
+  },
+  {
+    "id": "hefei_nsc",
+    "name": "合肥综合性国家科学中心",
+    "type": "研究院",
+    "tier": 2,
+    "city": "合肥",
+    "baseScore": 76,
+    "disciplines": {
+      "物理": "A+",
+      "核科学": "A+"
+    },
+    "thresholds": {
+      "gpa": 3.3,
+      "rank": "前20%",
+      "english": "六级500+"
+    },
+    "suitableMajors": [
+      "物理",
+      "化学"
+    ]
+  }
+]
